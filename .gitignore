@@ -1,0 +1,23 @@
+# Raw dataset
+data/raw/
+data/*.geojson
+
+# Large processed datasets
+data/processed/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+
+# Secrets
+.env
+
+# macOS
+.DS_Store
